@@ -92,6 +92,34 @@ body {
     color: white;
 }
 
+.button {
+	-webkit-appearance: none;
+	display: inline-block;
+	background: #bc3f33;
+	color: #fff;
+	padding: 13px 19px;
+	font-size: 17px;
+	line-height: 13px;
+	text-decoration: none;
+	margin: 10px 0 10px 0;
+	border: 1px solid #973329;
+	font-weight: normal;
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	-webkit-box-shadow: 0 2px 0 #973329;
+	-moz-box-shadow: 0 2px 0 #973329;
+	box-shadow: 0 2px 0 #973329;
+}
+
+.button:hover { opacity: .9; }
+
+article header h1 {
+	color: #CC342D;
+}
 /* ==============
     MOBILE: Menu
    ============== */
