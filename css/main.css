@@ -90,6 +90,8 @@ body {
 
 .title {
     color: white;
+    font-size: 29px;
+    font-weight: bold;
 }
 
 .button {
@@ -213,7 +215,7 @@ nav a:hover {
         float: left;
         width: 27%;
         margin: 0 1.7%;
-        padding: 25px 2%;
+        padding: 32px 2%;
         margin-bottom: 0;
     }
 
