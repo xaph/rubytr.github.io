@@ -94,6 +94,11 @@ body {
     font-weight: bold;
 }
 
+.title a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .button {
 	-webkit-appearance: none;
 	display: inline-block;
